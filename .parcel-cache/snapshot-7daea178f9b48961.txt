@@ -1,0 +1,14 @@
+13
+57C:\Users\Administrator\Videos\campus-events\.dockerignore134208260902685460 0
+56C:\Users\Administrator\Videos\campus-events\package.json134208258255801145 0
+54C:\Users\Administrator\Videos\campus-events\.gitignore134208258255788463 0
+47C:\Users\Administrator\Videos\campus-events\src134208256322390606 1
+54C:\Users\Administrator\Videos\campus-events\Dockerfile134208260803933452 0
+53C:\Users\Administrator\Videos\campus-events\README.md134208258255804320 0
+60C:\Users\Administrator\Videos\campus-events\styles\style.css134208260671559045 0
+50C:\Users\Administrator\Videos\campus-events\styles134208256419769516 1
+58C:\Users\Administrator\Videos\campus-events\src\index.html134208260564249519 0
+60C:\Users\Administrator\Videos\campus-events\src\contact.html134208256322394966 0
+64C:\Users\Administrator\Videos\campus-events\src\destination.html134208256322329758 0
+60C:\Users\Administrator\Videos\campus-events\src\gallery.html134208256322391703 0
+61C:\Users\Administrator\Videos\campus-events\src\packages.html134208256322386566 0
